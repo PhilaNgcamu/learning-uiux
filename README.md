@@ -51,6 +51,8 @@
 
 <h2>Wireframing and Prototype</h2>
 
-- Wireframes allows us to get the basic idea of the layout of any website or application
+- **Wireframes** (like a blueprint) allows us to get the basic idea of the layout of any website or application
 - Wireframes are created to plan how the content of the website will be displayed in the end product and more things such as the functionality, user flow, page structure, etc.
 - They basically used to create an early proof of design and there can be multiples of them.
+
+- **Prototypes** are functioning layout design of how the actual website would look like.
