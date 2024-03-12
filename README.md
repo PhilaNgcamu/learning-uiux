@@ -56,3 +56,7 @@
 - They basically used to create an early proof of design and there can be multiples of them.
 
 - **Prototypes** are functioning layout design of how the actual website would look like.
+
+<h2>UI COncepts</h2>
+
+- Visuals - how the app/website looks, icons, typography, icons, mood, interaction design and motion design
