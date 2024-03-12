@@ -18,3 +18,5 @@
 - Who do we compete against? Think about what the user would want to see. You may start by emulating designs that fit to your designs.
 - Understand what the competitor is doing and how thy are doing it.
 - What kind of impact do we want to make?
+
+- In essence: Formulate the questions and critically think. Understand why you are designing the app/design and how will the target market respond to it.
