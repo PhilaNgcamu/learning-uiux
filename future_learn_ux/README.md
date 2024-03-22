@@ -42,5 +42,6 @@
 3. Design the experience - the interaction between the user and your product.
 4. Develop your design.
 5. You release your product or your site - continually improving your product or design.
-   > [!IMPORTANT]
-   > Always base your decisions around real data from real users to see how your product or your site is received by people
+
+> [!IMPORTANT]
+> Always base your decisions around real data from real users to see how your product or your site is received by people
