@@ -1,6 +1,6 @@
 # Digital Skills: User Experience: Accenture
 
-- This phase has 4 key steps:
+- This phase has 4 key step
 
 1. **Design your user journeys**: This includes the steps a user takes to complete certain tasks in a journey while they interact with your product. This includes both online and offline steps.
 
