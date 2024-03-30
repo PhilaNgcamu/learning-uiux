@@ -8,5 +8,5 @@
 4. Think about all the possibilities that might meet their goal and satisfy the personas you have created. A mind map is good way to start jotting out ideas.
 5. Have a prioritised list of requirements. See if your ideas meet certain people's needs or personas
 
-> [!NOTE]:
+> [!NOTE]
 > The important part of this phase is to be **open-minded**
