@@ -1,6 +1,6 @@
 # Digital Skills: User Experience: Accenture
 
-<h1>Structuring Your Site</h1>h1>
+<h1>Structuring Your Site</h1>
 
 <h2>Information Architecture</h2>
 
