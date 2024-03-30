@@ -26,5 +26,5 @@
 - Designing the experience around their needs.
 - This guarantees highest success for your product.
 
-> [!IMPORATNT]
+> [!IMPORTANT]
 > Data and statistics are powerful but they don't tell the whole story. Use real world insights to understand what the numbers mean.
