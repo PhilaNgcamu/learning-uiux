@@ -1,8 +1,8 @@
 # Digital Skills: User Experience: Accenture
 
-<h1>Structuring Your Site<h1>
+<h1>Structuring Your Site</h1>h1>
 
-<h2>Information Architecture.</h3>
+<h2>Information Architecture</h2>
 
 - Information of your site or app. How the essential elements are organised and how you build together the information and what you are displaying to your users.
 
