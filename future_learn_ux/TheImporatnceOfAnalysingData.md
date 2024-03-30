@@ -1,6 +1,6 @@
 # Digital Skills: User Experience: Accenture
 
-<h1>The Importance of Analysing Data<h1>
+<h1>The Importance of Analysing Data</h1>
 
 - Understanding user behaviour after launch of the service or product is important.
 - It means you can continually improve their experience if you look at how analysing user data can help you with this.
